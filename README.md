@@ -64,8 +64,8 @@ npm start
 # HERE IS THE PREVIEW HOW THIS PROJECT LOOKS😍
 
 
-> ![Screenshot](./Screenshot/screenshot-1.png)
-> ![Screenshot](./Screenshot/screenshot-2.png)
+> ![Screenshot](./screenshot/screenshot-1.png)
+> ![Screenshot](./screenshot/screenshot-2.png)
 
 
 
