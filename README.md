@@ -15,7 +15,7 @@
 
 
 
-> # All About `STUDENT MANAGEMENT SYSTEM` 😎
+> # All About `STUDENT MANAGEMENT SYSTEM APP` 😎
 
 
 
