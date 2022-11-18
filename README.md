@@ -15,7 +15,7 @@
 
 
 
-> # All About `STUDENT MANAGEMENT SYSTEM FORM APP` 😎
+> # All About `STUDENT MANAGEMENT SYSTEM FORM REACT APP` 😎
 
 
 
