@@ -19,7 +19,7 @@
 
 
 
-## How to start
+## How to start with this project.
 Fork the project download the code open your favorite IDE
 
 1. Open terminal type command
