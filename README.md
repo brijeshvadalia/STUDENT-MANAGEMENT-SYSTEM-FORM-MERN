@@ -34,7 +34,7 @@ npm i
 npm start
 ```
 
-3. Split the terminal and type
+3. Split the terminal and type :
 ```
 cd client
 ```
